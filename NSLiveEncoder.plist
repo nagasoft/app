@@ -24,7 +24,7 @@
 					
 						<key>url</key>
 					
-						<string>http://www.nagasoft.cn/download/apk/NSLiveEncoder/NSLiveEncoder-1.0.1.1.ipa</string>
+						<string>http://www.nagasoft.cn/download/apk/NSLiveEncoder/NSLiveEncoder-1.0.2.1.ipa</string>
 
 					</dict>
 
@@ -54,7 +54,7 @@
 				
 					<key>bundle-version</key>
 				
-					<string>1.0.1</string>
+					<string>1.0.2</string>
 				
 					<key>kind</key>
 				
@@ -62,7 +62,7 @@
 				
 					<key>title</key>
 				
-					<string>纳加直播 v1.0.1</string>
+					<string>纳加直播 v1.0.2</string>
 			
 				</dict>
 		
