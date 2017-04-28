@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.nagasoft.cn/download/apk/VJShow/VJShow-1.0.0.ipa</string>
+					<string>http://www.nagasoft.cn/download/apk/VJShow/VJShow.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -31,11 +31,11 @@
 				<key>bundle-identifier</key>
 				<string>com.nagasoft.enterprise.VJShow</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>1.1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>微距直播 v1.0.0</string>
+				<string>VJShow</string>
 			</dict>
 		</dict>
 	</array>
