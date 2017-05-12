@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.0.172/static/app/VJCms.ipa</string>
+					<string>http://192.168.0.171/static/app/VJCms.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://192.168.0.172/static/app/icon57.png</string>
+					<string>http://192.168.0.171/static/app/icon57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://192.168.0.172/static/app/icon512.png</string>
+					<string>http://192.168.0.171/static/app/icon512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
