@@ -24,7 +24,7 @@
 					
 						<key>url</key>
 					
-						<string>http://www.nagasoft.cn/download/apk/VJRCMobile/VJRCMobile-v1.0.0.5.ipa</string>
+						<string>http://www.nagasoft.cn/download/apk/VJRCMobile/VJRCMobile.ipa</string>
 
 					</dict>
 
@@ -54,7 +54,7 @@
 				
 					<key>bundle-version</key>
 				
-					<string>1.0.0</string>
+					<string>1.4.0</string>
 				
 					<key>kind</key>
 				
@@ -62,7 +62,7 @@
 				
 					<key>title</key>
 				
-					<string>纳加远程连线 v1.0.0</string>
+					<string>纳加远程连线</string>
 			
 				</dict>
 		
